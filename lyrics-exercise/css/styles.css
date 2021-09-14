@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(236, 120, 104);
+    text-align: center;
+}
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2{
+    color: rgb(196, 58, 76);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.chorus{
+    color: rgb(130, 206, 236);
+}
+
+.verse1{
+    color: rgb(67, 104, 185);
+}
+
+.verse2{
+    color: rgb(29, 80, 156);
+}
+
+.outro{
+    color: rgb(39, 54, 141);
+}
+
+.adlib{
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 15px;
+    color: snow;
+}
+
+footer{
+    margin-left: 200px;
+    margin-right: 200px;
+    color:rgb(122, 60, 52)
+}
