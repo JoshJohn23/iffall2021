@@ -1,0 +1,16 @@
+.desktop img {
+    width: 50%;
+}
+
+.mobile img {
+    width: 15%;
+}
+
+div {
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+h1 {
+    text-align: center;
+}
